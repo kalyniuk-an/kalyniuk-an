@@ -1,5 +1,4 @@
 #👋 Hi, I'm Kalyniuk Anastasiia
-
 **Junior Full-Stack Developer | HTML | CSS | JavaScript | React | Node.js**
 
 I’m a Junior Full-Stack Developer focused on building modern, responsive, and user-friendly web applications.
@@ -17,7 +16,6 @@ I’m continuously improving my development skills and currently looking for an 
 ## 💻 Featured Projects
 
 ### 📸 [Photography Team Project](https://github.com/kalyniuk-an/project-Pure-Moment)
-
 A responsive website for a professional wedding photographer developed as part of a **team project**.
 The project includes interactive navigation, portfolio filtering, FAQ sections, contact functionality, responsive layouts, and third-party JavaScript libraries.
 **Tech:** JavaScript · HTML5 · CSS3 · Vite · Axios · Swiper · Git · GitHub
@@ -26,8 +24,7 @@ The project includes interactive navigation, portfolio filtering, FAQ sections, 
 ---
 
 ## 🗣️ Languages
-![English](https://img.shields.io/badge/English-B1-blue?style=flat-square) 
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+![English](https://img.shields.io/badge/English-B1-blue?style=flat-square) | ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
 ## 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/kalyniuk-an/) | [Email](mailto:kalyniuk.an@gmail.com)
