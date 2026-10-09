@@ -16,6 +16,7 @@ I’m continuously improving my development skills and currently looking for an 
 * **Tools & APIs:** Git | GitHub | REST APIs | Vite | Docker
 * **ORMs & Libraries:** SQLAlchemy | Mongoose | TanStack Query
 
+---
 
 ## 💻 Featured Projects
 
@@ -30,7 +31,6 @@ The project includes interactive navigation, portfolio filtering, FAQ sections, 
 🔗 [Live Demo](https://konorezzova-spec.github.io/project-Pure-Moment/)
 
 ---
-
 
 ## 🗣️ Languages
 ![English](https://img.shields.io/badge/English-B1-blue?style=flat-square) 
