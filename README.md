@@ -20,7 +20,7 @@ A responsive website for a professional wedding photographer developed as part o
 The project includes interactive navigation, portfolio filtering, FAQ sections, contact functionality, responsive layouts, and third-party JavaScript libraries.
 **Tech:** JavaScript · HTML5 · CSS3 · Vite · Axios · Swiper · Git · GitHub
 
-🔗 [Live Demo](https://konorezzova-spec.github.io/project-Pure-Moment/)
+###🔗 [Live Demo](https://konorezzova-spec.github.io/project-Pure-Moment/)
 ---
 
 ## 🗣️ Languages
