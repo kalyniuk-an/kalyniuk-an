@@ -1,4 +1,4 @@
-#👋 Hi, I'm Kalyniuk Anastasiia
+👋 Hi, I'm Kalyniuk Anastasiia
 **Junior Full-Stack Developer | HTML | CSS | JavaScript | React | Node.js**
 
 I’m a Junior Full-Stack Developer focused on building modern, responsive, and user-friendly web applications.
