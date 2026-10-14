@@ -19,7 +19,6 @@ I’m continuously improving my development skills and currently looking for an 
 A responsive website for a professional wedding photographer developed as part of a **team project**.
 The project includes interactive navigation, portfolio filtering, FAQ sections, contact functionality, responsive layouts, and third-party JavaScript libraries.
 **Tech:** JavaScript · HTML5 · CSS3 · Vite · Axios · Swiper · Git · GitHub
-
 🔗[Live Demo](https://konorezzova-spec.github.io/project-Pure-Moment/)
 ---
 
